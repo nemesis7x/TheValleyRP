@@ -46,6 +46,7 @@ body {
   padding: 0.75rem 1.5rem;
   text-decoration: none;
   border-radius: 5px;
+  font-weight: bold;
   transition: background-color 0.3s ease;
 }
 
@@ -91,3 +92,4 @@ footer {
   font-size: 0.9rem;
   color: #aaa;
 }
+
